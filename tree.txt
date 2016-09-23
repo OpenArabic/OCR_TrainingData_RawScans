@@ -1,0 +1,57 @@
+.
+├── README.md
+├── ara
+│   ├── bayrut_calam_kutub
+│   │   ├── 1_images
+│   │   ├── 2_preprocessed_images
+│   │   ├── 3_transcription_ready
+│   │   └── 4_trainingdata
+│   ├── place_publisher_1
+│   │   ├── 1_images
+│   │   ├── 2_preprocessed_images
+│   │   ├── 3_transcription_ready
+│   │   └── 4_trainingdata
+│   ├── place_publisher_2
+│   │   ├── 1_images
+│   │   ├── 2_preprocessed_images
+│   │   ├── 3_transcription_ready
+│   │   └── 4_trainingdata
+│   └── place_publisher_3
+│       ├── 1_images
+│       ├── 2_preprocessed_images
+│       ├── 3_transcription_ready
+│       └── 4_trainingdata
+├── per
+│   ├── place_publisher_1
+│   │   ├── 1_images
+│   │   ├── 2_preprocessed_images
+│   │   ├── 3_transcription_ready
+│   │   └── 4_trainingdata
+│   ├── place_publisher_2
+│   │   ├── 1_images
+│   │   ├── 2_preprocessed_images
+│   │   ├── 3_transcription_ready
+│   │   └── 4_trainingdata
+│   └── place_publisher_3
+│       ├── 1_images
+│       ├── 2_preprocessed_images
+│       ├── 3_transcription_ready
+│       └── 4_trainingdata
+├── per-ara
+│   ├── place_publisher_1
+│   │   ├── 1_images
+│   │   ├── 2_preprocessed_images
+│   │   ├── 3_transcription_ready
+│   │   └── 4_trainingdata
+│   ├── place_publisher_2
+│   │   ├── 1_images
+│   │   ├── 2_preprocessed_images
+│   │   ├── 3_transcription_ready
+│   │   └── 4_trainingdata
+│   └── place_publisher_3
+│       ├── 1_images
+│       ├── 2_preprocessed_images
+│       ├── 3_transcription_ready
+│       └── 4_trainingdata
+└── tree.txt
+
